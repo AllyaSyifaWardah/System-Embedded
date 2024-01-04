@@ -1,4 +1,4 @@
-// Job 1 A(Langkah 2)
+// Job 1 A Langkah 2
 // Allya Syifa Wardah
 
 const int ledPin = 5; // Pin untuk LED
